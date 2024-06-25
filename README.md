@@ -44,3 +44,8 @@ plot_tree(root)
 print("Pre order:", preorder_traversal(root))
 print("In order:", inorder_traversal(root))
 print("Post order:", postorder_traversal(root))
+```
+
+Which will output the following:
+
+![Output](https://github.com/TheNazgul42/VisualTreeTraversal/blob/master/screen1.png?raw=true "Output")
